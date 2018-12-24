@@ -1,16 +1,16 @@
-# flutter_hello
+# flutter_weatherforcast
 
-A new Flutter project.
+一个用flutter写的新的android应用程序
 
-## Getting Started
+## 介绍
 
-This project is a starting point for a Flutter application.
+现在用安卓的太少了！！！！！！
 
-A few resources to get you started if this is your first Flutter project:
+Google大法好，统一了安卓和ios
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+![avatar](/viewfore/main.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![avatar](/viewfore/xiangxi.png)
+
+入果你也感兴趣，请点击文档 
+[online documentation](https://flutter.io/docs)
